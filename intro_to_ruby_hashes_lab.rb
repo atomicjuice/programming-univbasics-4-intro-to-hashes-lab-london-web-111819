@@ -15,7 +15,7 @@ end
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
-   {:1 1}
+  hash = {:1 1}
 end
 
 def my_hash_creator(key, value)
